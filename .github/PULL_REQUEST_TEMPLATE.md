@@ -2,11 +2,11 @@
 
 Complete the following REQUIRED checkboxes:
 <!-- While editing this template, replace the whitespace between the square brackets with an 'x', e.g. [x] -->
--   [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
--   [ ] The title of this PR follows the `location of change: brief description of change` format, e.g. `01-flex-center: Update self check`
+-   [x] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
+-   [x] The title of this PR follows the `location of change: brief description of change` format, e.g. `01-flex-center: Update self check`
 
 Complete the following checkbox ONLY IF it is applicable to your PR. You can complete it later if it is not currently applicable:
--   [ ] I have ensured that the TOP solution files match the Desired Outcome image
+-   [x] I have ensured that the TOP solution files match the Desired Outcome image
 
 <hr>
 
@@ -27,4 +27,3 @@ A bullet point list of one or more items outlining what was done in this PR to s
 
 **3. Additional Information:**
 <!-- Any additional information about the PR, such as a link to a Discord discussion, etc. -->
-
